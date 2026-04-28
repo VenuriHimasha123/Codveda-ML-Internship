@@ -50,7 +50,3 @@ This repository serves as a showcase of my practical skills in Data Science, Mac
 
 ---
 
-## 🚀 How to Run
-1. Clone this repository to your local machine:
-   ```bash
-   git clone [https://github.com/](https://github.com/)[VenuriHimasha123]/Codveda-ML-Internship.git
